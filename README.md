@@ -1,5 +1,5 @@
 # Hi, I'm Justin Webster | Security Architect & Technical Designer
-**Rank 7/301 | 4.0 GPA | Passionate about Human-Centric AI Safety**
+**Rank 7/301 | 3.8 GPA | Passionate about Human-Centric AI Safety**
 
 ## 🛡️ Current Research: The USL Project
 I am developing the **Universal Safety Layer (USL)**, a privacy-first AI framework designed to eliminate lethal harassment by intercepting harmful data at the system level.
