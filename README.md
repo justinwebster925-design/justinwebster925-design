@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] | Security Architect & Technical Designer
+# Hi, I'm Justin Webster | Security Architect & Technical Designer
 **Rank 7/301 | 4.0 GPA | Passionate about Human-Centric AI Safety**
 
 ## 🛡️ Current Research: The USL Project
